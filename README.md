@@ -1,4 +1,4 @@
-# Starbucks- Statistical Promotion Analysis
+# Starbucks Statistical Promotion Analysis & Optimization
 1. [Installation](#installation)
 2. [Objective](#objective)
 3. [File Descriptions](#file-descriptions)
